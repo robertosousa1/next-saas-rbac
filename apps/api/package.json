@@ -23,6 +23,7 @@
     "@saas/tsconfig": "workspace:*",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^22.13.5",
+    "dotenv-cli": "^8.0.0",
     "prisma": "^6.4.1",
     "tsx": "^4.19.3"
   },
